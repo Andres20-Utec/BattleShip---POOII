@@ -15,7 +15,7 @@
 	- __Zona del oponente__. Sirve para identificar los tiros acertados y errados.
 
 ### Flota
-#### Tipos de naves 
+#### Tipos de naves
 - _Aircraft Carrier(A)_ 4 casillas
 - _Battlecruiser(B)_ 3 casillas
 - _Submarine(S)_ 2 casillas
@@ -32,3 +32,21 @@
 - __archivo.out__ : Lo usa el archivo para determinar los cambios internos y elegir la mejor estrategia para atacar.
 
 
+## Requerimientos
+
+### Primera entrega
+
+- Class table_navi: Tabla para posicionar nuestras naves y marcar los tiros del oponente.
+	- La tabla debe estar compuesta de naves.
+	- Es preferible utilizar composición para la class table_navi.
+- Classes navis: De preferencias polimorfica que solo cambie el largo de la nave.
+	- _Aircraft Carrier(A)_ 4 casillas
+	- _Battlecruiser(B)_ 3 casillas
+	- _Submarine(S)_ 2 casillas
+	- _Torpedo boat(T)_ 2 casilla
+ 
+### Segunda entrega
+- Class table_enemy: Tabla para marcar tiros errados y acertados 
+
+## Primera entrega
+- Terminar la etapa de posicionamiento de naves.
