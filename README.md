@@ -44,6 +44,7 @@
 	- _Battlecruiser(B)_ 3 casillas
 	- _Submarine(S)_ 2 casillas
 	- _Torpedo boat(T)_ 2 casilla
+
  
 ### Segunda entrega
 - Class table_enemy: Tabla para marcar tiros errados y acertados 
