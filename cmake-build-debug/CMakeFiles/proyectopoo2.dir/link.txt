@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/proyectopoo2.dir/main.cpp.o CMakeFiles/proyectopoo2.dir/player.cpp.o CMakeFiles/proyectopoo2.dir/float.cpp.o  -o proyectopoo2 
