@@ -1,6 +1,8 @@
 #include <iostream>
+#include"float.h"
 
 int main() {
-    std::cout << "Hello, World!" << std::endl;
+    player_t new_player;
+    new_player.handshake_in();
     return 0;
 }

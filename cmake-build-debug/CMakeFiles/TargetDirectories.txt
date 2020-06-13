@@ -1,3 +1,3 @@
-/home/rrodriguez/Documentos/UTEC/proyectopoo2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/home/rrodriguez/Documentos/UTEC/proyectopoo2/cmake-build-debug/CMakeFiles/edit_cache.dir
-/home/rrodriguez/Documentos/UTEC/proyectopoo2/cmake-build-debug/CMakeFiles/proyectopoo2.dir
+/home/rrodriguez/Escritorio/Ciclo 2020 - 1/Programación Orientada a Objetos II/Proyecto/proyectopoo2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/rrodriguez/Escritorio/Ciclo 2020 - 1/Programación Orientada a Objetos II/Proyecto/proyectopoo2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rrodriguez/Escritorio/Ciclo 2020 - 1/Programación Orientada a Objetos II/Proyecto/proyectopoo2/cmake-build-debug/CMakeFiles/proyectopoo2.dir

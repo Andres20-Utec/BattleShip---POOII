@@ -8,7 +8,7 @@
 
 #include"common.h"
 
-class player_t{
+class player_t {
     name_ name_team;
     string scope;
     token_ token;
@@ -26,8 +26,23 @@ public:
     void handshake_in(); //
     void handshake_out(file_name out); //
 
+
     // Eduardo y Andres
-    void placefeet_in(); //
+    void placefeet_in();
+
+
+    // Setters
+    void setNameTeam(const name_ &nameTeam);
+    void setScope(const string &scope);
+    void setToken(token_ token);
+    void setShipAmount(number_t shipAmount);
+
+    // Getters
+    const name_ &getNameTeam() const;
+    const string &getScope() const;
+    token_ getToken() const;
+    number_t getShipAmount() const;
+
 
     // Métodos
 
