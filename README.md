@@ -32,7 +32,9 @@
 - __archivo.out__ : Lo usa el archivo para determinar los cambios internos y elegir la mejor estrategia para atacar.
 
 
-## Requerimientos
+## Estructura
+
+![Arquitectura de Programa](https://github.com/renatoseb/BattleShip---POOII/blob/master/BattleShip%20Entities.png?raw=true)
 
 ### Primera entrega
 
@@ -45,9 +47,9 @@
 	- _Submarine(S)_ 2 casillas
 	- _Torpedo boat(T)_ 2 casilla
 
- 
+
 ### Segunda entrega
-- Class table_enemy: Tabla para marcar tiros errados y acertados 
+- Class table_enemy: Tabla para marcar tiros errados y acertados
 
 ## Primera entrega
 - Terminar la etapa de posicionamiento de naves.
